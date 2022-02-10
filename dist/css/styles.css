@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Freelancer v7.0.3 (https://startbootstrap.com/theme/freelancer)
-* Copyright 2013-2021 Start Bootstrap
+* Copyright 2013-2022 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
 */
 /*!
@@ -24,7 +24,7 @@
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
-  --bs-primary: #1d1abc;
+  --bs-primary: #1abc9c;
   --bs-secondary: #2c3e50;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -208,11 +208,11 @@ sup {
 }
 
 a {
-  color: #1a1dbc;
+  color: #1abc9c;
   text-decoration: underline;
 }
 a:hover {
-  color: #156296;
+  color: #15967d;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -3353,8 +3353,8 @@ textarea.form-control-lg {
 }
 
 .btn-outline-light {
-  color: #3b6288;
-  border-color: #3b6288;
+  color: #f8f9fa;
+  border-color: #f8f9fa;
 }
 .btn-outline-light:hover {
   color: #000;
